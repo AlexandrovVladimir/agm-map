@@ -1,0 +1,820 @@
+[
+  {
+    "address": {
+      "geo": {
+        "latitude": "47.5355802",
+        "longitude": "7.6405183",
+        "coordinates": [
+          7.6405183,
+          47.5355802
+        ],
+        "type": "Point"
+      },
+      "line1": "Hofackerstrasse 40",
+      "line2": "",
+      "city": "Muttenz",
+      "state": "Basel-Landschaft",
+      "zip": "4132",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Hofackerstrasse 40, 4132 Muttenz, Basel-Landschaft, Switzerland"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00"
+      },
+      "monday": {
+        "open": "08:30",
+        "close": "18:30"
+      },
+      "tuesday": {
+        "open": "08:30",
+        "close": "18:30"
+      },
+      "wednesday": {
+        "open": "08:30",
+        "close": "18:30"
+      },
+      "thursday": {
+        "open": "08:30",
+        "close": "18:30"
+      },
+      "friday": {
+        "open": "08:30",
+        "close": "18:30"
+      },
+      "saturday": {
+        "open": "08:30",
+        "close": "18:30"
+      },
+      "active": true
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modifiedBy": "job",
+      "modificationDate": "2021-02-04T07:30:14.185+0000"
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1583934115/dev/merchants/IMG_c032faa283fa377fbb0e9b4cbe_1583934114688.png",
+    "name": "AB kKiosk",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        7.6405183,
+        47.5355802
+      ]
+    }
+  },
+  {
+    "address": {
+      "geo": {
+        "coordinates": [
+          8.549508,
+          47.363566
+        ],
+        "latitude": "47.363566",
+        "longitude": "8.549508",
+        "type": "Point"
+      },
+      "line1": "Seefeldstrasse 27",
+      "line2": "Kreis 8",
+      "city": "Zürich",
+      "state": "Zürich",
+      "zip": "8008",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Seefeldstrasse 27, 8008 Zürich, Zürich Switzerland"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "08:45",
+        "close": "21:00",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "active": false
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modifiedBy": "user",
+      "modificationDate": "2020-07-03T10:37:18.783+0000"
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1540901765/dev/merchants/IMG_5bd84b590195060714c69c4f_1540901764682.jpg",
+    "name": "AB Sazio",
+    "location": {
+      "coordinates": [
+        8.549508,
+        47.363566
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "address": {
+      "geo": {
+        "latitude": "47.3649351",
+        "longitude": "8.5479338",
+        "coordinates": [
+          8.5479338,
+          47.3649351
+        ],
+        "type": "Point"
+      },
+      "line1": "Seefeldstrasse 2",
+      "line2": "Kreis 8",
+      "city": "Zürich",
+      "state": "Zürich",
+      "zip": "8008",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Seefeldstrasse 2, Kreis 8, 8008 Zürich, Zürich, Switzerland"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "active": true
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modifiedBy": "job",
+      "modificationDate": "2021-02-04T07:30:19.295+0000"
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1526995559/dev/merchants/IMG_0041766415452_1526995558485.jpg",
+    "name": "AB Tibits",
+    "location": {
+      "coordinates": [
+        8.5479338,
+        47.3649351
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "address": {
+      "geo": {
+        "coordinates": [
+          13,
+          47
+        ],
+        "latitude": "47.000",
+        "longitude": "13.000",
+        "type": "Point"
+      },
+      "line1": "Farman-Strasse 33",
+      "line2": "",
+      "city": "Glattpark",
+      "state": "",
+      "zip": "8152",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Farman-Strasse 33, CH-8152 Glattpark"
+    },
+    "location": {
+      "coordinates": [
+        13,
+        47
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "09:00",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "active": true
+    },
+    "imagePath": "",
+    "name": "AB Bäretatze",
+    "status": {
+      "name": "ACTIVE",
+      "modifiedBy": "job",
+      "modificationDate": "2021-02-04T07:30:22.743+0000"
+    }
+  },
+  {
+    "address": {
+      "geo": {
+        "coordinates": [
+          8.547752,
+          47.3622013
+        ],
+        "latitude": "47.3622013",
+        "longitude": "8.547752",
+        "type": "Point"
+      },
+      "line1": "Utoquai 47",
+      "line2": "Kreis 8",
+      "city": "Zürich",
+      "state": "Zürich",
+      "zip": "8008",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Utoquai 47, Kreis 8, 8008 Zürich, Zürich, Switzerland"
+    },
+    "location": {
+      "coordinates": [
+        8.547752,
+        47.3622013
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "active": true
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1567683407/dev/merchants/IMG_c032faa283fa377fbb0e9b49be_1567683407037.jpg",
+    "name": "AB Migrolino",
+    "status": {
+      "name": "CLOSED",
+      "modifiedBy": "job",
+      "modificationDate": "2021-02-04T07:30:24.184+0000"
+    }
+  },
+  {
+    "address": {
+      "line1": "Seefeldstrasse 2",
+      "line2": "",
+      "city": "Zürich",
+      "state": "",
+      "zip": "8008",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Seefeldstrasse 2, 8008 Zürich, Switzerland",
+      "geo": {
+        "coordinates": [
+          8.5368762,
+          8.5368762
+        ],
+        "latitude": "8.5368762",
+        "longitude": "8.5368762",
+        "type": "Point"
+      }
+    },
+    "location": {
+      "coordinates": [
+        8.5368762,
+        8.5368762
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "active": true
+    },
+    "imagePath": "",
+    "name": "AB Tibits",
+    "status": {
+      "name": "ACTIVE",
+      "modifiedBy": "job",
+      "modificationDate": "2021-02-04T12:00:32.115+0000"
+    }
+  },
+  {
+    "address": {
+      "line1": "Boulevard Lilienthal 11",
+      "line2": "",
+      "city": "Opfikon",
+      "state": "",
+      "zip": "8152",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Boulevard Lilienthal 11, 8152 Opfikon, Switzerland",
+      "geo": {
+        "coordinates": [
+          8.562368392944336,
+          47.42377471923828
+        ],
+        "latitude": "47.42377471923828",
+        "longitude": "8.562368392944336",
+        "type": "Point"
+      }
+    },
+    "location": {
+      "coordinates": [
+        8.562368392944336,
+        47.42377471923828
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "saturday": {
+        "open": "17:30",
+        "close": "23:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "sunday": {
+        "breaks": [
+        ]
+      }
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modificationDate": "2020-04-27T09:01:27.787+0000",
+      "modifiedBy": "user"
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1587861890/dev/merchants/IMG_test_1587861888950.jpg",
+    "name": "AB Ristorante Lilienthal"
+  },
+  {
+    "address": {
+      "line1": "Boulevard Lilienthal 11",
+      "line2": "",
+      "city": "Opfikon",
+      "state": "",
+      "zip": "8152",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Boulevard Lilienthal 11, 8152 Opfikon, Switzerland",
+      "geo": {
+        "coordinates": [
+          8.562368392944336,
+          47.42377471923828
+        ],
+        "latitude": "47.42377471923828",
+        "longitude": "8.562368392944336",
+        "type": "Point"
+      }
+    },
+    "location": {
+      "coordinates": [
+        8.562368392944336,
+        47.42377471923828
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "saturday": {
+        "open": "17:30",
+        "close": "23:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "23:00",
+        "breaks": [
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ]
+      },
+      "sunday": {
+        "breaks": [
+        ]
+      }
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modificationDate": "2020-06-09T15:26:32.736+0000",
+      "modifiedBy": "user"
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1588969485/dev/merchants/IMG_c132fea384fe4138e555ca1ffa_1588969484270.jpg",
+    "name": "AB Ristorante Lilienthal"
+  },
+  {
+    "address": {
+      "line1": "Seefeldstrasse 2",
+      "line2": "",
+      "city": "Zürich",
+      "state": "",
+      "zip": "8008",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Seefeldstrasse 2, 8008 Zürich, Switzerland",
+      "geo": {
+        "coordinates": [
+          8.547957420349121,
+          47.36499786376953
+        ],
+        "latitude": "47.36499786376953",
+        "longitude": "8.547957420349121",
+        "type": "Point"
+      }
+    },
+    "location": {
+      "coordinates": [
+        8.547957420349121,
+        47.36499786376953
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "monday": {
+        "open": "09:00",
+        "close": "21:00",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "07:00",
+        "close": "21:00",
+        "breaks": [
+        ]
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "22:00",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "07:00",
+        "close": "21:00",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "07:00",
+        "close": "21:00",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "07:00",
+        "close": "21:00",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "07:00",
+        "close": "21:00",
+        "breaks": [
+        ]
+      }
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modificationDate": "2020-06-29T16:08:14.177+0000",
+      "modifiedBy": "user"
+    },
+    "imagePath": "",
+    "name": "AB Tibits"
+  },
+  {
+    "address": {
+      "line1": "Boulevard Lilienthal 41",
+      "line2": "",
+      "city": "Opfikon",
+      "state": null,
+      "zip": "8152",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "formatted": "Boulevard Lilienthal 41, 8152 Opfikon, Switzerland",
+      "geo": {
+        "coordinates": [
+          8.5600887,
+          47.421483599999995
+        ],
+        "latitude": "47.421483599999995",
+        "longitude": "8.5600887",
+        "type": "Point"
+      }
+    },
+    "location": {
+      "coordinates": [
+        8.5600887,
+        47.421483599999995
+      ],
+      "type": "Point"
+    },
+    "openingHours": {
+      "sunday": {
+        "open": "00:00",
+        "close": "00:00",
+        "breaks": [
+        ]
+      },
+      "monday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "tuesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "wednesday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "thursday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "friday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      },
+      "saturday": {
+        "open": "08:30",
+        "close": "18:30",
+        "breaks": [
+        ]
+      }
+    },
+    "status": {
+      "name": "ACTIVE",
+      "modifiedBy": "user",
+      "modificationDate": "2020-10-22T12:19:15.045+0000"
+    },
+    "imagePath": "https://res.cloudinary.com/sonect/image/upload/v1603117517/dev/merchants/IMG_test_1603117516396.jpg",
+    "name": "AB Jackys"
+  }
+]

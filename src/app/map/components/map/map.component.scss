@@ -1,0 +1,12 @@
+.map {
+  agm-map {
+    width: 100vw;
+    height: 75vh;
+
+    &::ng-deep {
+      .gmnoprint {
+        display: none;
+      }
+    }
+  }
+}
