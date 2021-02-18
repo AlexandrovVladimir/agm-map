@@ -16,7 +16,8 @@ import { SearchComponent } from './components/search/search.component';
     FormsModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBUgzdhBjUAgvO8neToFtslXrMD6Ze4JY8'
+      apiKey: ''
+      // AIzaSyBUgzdhBjUAgvO8neToFtslXrMD6Ze4JY8
     })
   ]
 })

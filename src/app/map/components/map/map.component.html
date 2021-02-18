@@ -7,7 +7,7 @@
            (zoomChange)="zoomChange($event)">
 
     <agm-marker *ngFor="let item of dataMap$ | async"
-                [iconUrl]="item.status.name === 'ACTIVE' ? markerUrl : markerDisabledUrl"
+                [iconUrl]="item.openingHours.active ? markerUrl : markerDisabledUrl"
                 [latitude]="+item.address.geo.latitude"
                 [longitude]="+item.address.geo.longitude"
                 [title]="item.name">

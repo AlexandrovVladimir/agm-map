@@ -46,6 +46,8 @@ export class MapComponent implements OnInit {
   }
 
   centerChange($event: google.maps.LatLngLiteral) {
+    // When I'm using this event, map movement will be slowly, but working correctly
+    // Without it lat and lng calculate is don't right correct
     this.lat = $event.lat;
     this.lng = $event.lng;
   }

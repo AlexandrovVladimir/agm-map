@@ -4,6 +4,7 @@ import { FormControl } from '@angular/forms';
 import { Subject } from 'rxjs';
 import { takeUntil } from 'rxjs/operators';
 import { MapItemModel } from '../../models/map-item.model';
+import * as moment from 'moment';
 
 @Component({
   selector: 'app-search',
